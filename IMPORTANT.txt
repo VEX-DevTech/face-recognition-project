@@ -1,0 +1,7 @@
+Libraries for the project:
+-opencv-contrib-python
+-imutils
+
+
+COMMAND FOR INSTALL:
+pip install opencv-contrib-python imutils
